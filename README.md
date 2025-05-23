@@ -1,6 +1,25 @@
-# 💫 About Me:
-I'm currently studying at Goldsmiths University of London
+<h1 align="center">🕵️‍♂️ Welcome to the Lab</h1>
+<p align="center">Cybersecurity Enthusiast | Future Pentester | Capture the Flag Addict</p>
 
+> whoami
+
+I'm currently studying at Goldsmiths University with a strong passion for cybersecurity, currently focused on developing my skills in penetration testing. Through hands-on platforms like Hack The Box and TryHackMe, I've been actively building practical experience in areas such as network exploitation, privilege escalation, and web application security. My goal is to pursue a career in offensive security, where I can continue learning, growing, and contributing to a safer digital world.
+
+🛡️ Aspiring Cybersecurity Professional  
+## 🧠 Currently Learning
+- Penetration Testing via [Hack The Box](https://www.hackthebox.com/) & [TryHackMe](https://tryhackme.com/)
+- Web App & Network Security
+- OSINT and Social Engineering Fundamentals
+
+## 🔧 Tools & Technologies
+![Linux](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff3300?logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1A1F71?logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-5079be?logo=metasploit&logoColor=white)
+
+<## 📖 Portfolio - Projects -->
+https://github.com/ONait001/OpenCV-Camera.git 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ossama-n-403b0330b/) 
@@ -21,8 +40,7 @@ I'm currently studying at Goldsmiths University of London
 ---
 [![](https://visitcount.itsvg.in/api?id=ONait001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<## 📖 Portfolio - Passed Projects -->
-https://github.com/ONait001/OpenCV-Camera.git 
+
 <!--
 **ONait001/ONait001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
