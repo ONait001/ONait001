@@ -18,7 +18,7 @@ I'm currently studying at Goldsmiths University with a strong passion for cybers
 ![Wireshark](https://img.shields.io/badge/Wireshark-1A1F71?logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-5079be?logo=metasploit&logoColor=white)
 
-<## 📖 Portfolio - Projects -->
+## 📖 Portfolio - Projects 
 ### https://github.com/ONait001/OpenCV-Camera.git 
 ### https://github.com/ONait001/bettys-books.git
 
