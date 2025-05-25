@@ -19,8 +19,8 @@ I'm currently studying at Goldsmiths University with a strong passion for cybers
 ![Metasploit](https://img.shields.io/badge/Metasploit-5079be?logo=metasploit&logoColor=white)
 
 <## 📖 Portfolio - Projects -->
--https://github.com/ONait001/OpenCV-Camera.git 
--https://github.com/ONait001/bettys-books.git
+### https://github.com/ONait001/OpenCV-Camera.git 
+### https://github.com/ONait001/bettys-books.git
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ossama-n-403b0330b/) 
