@@ -3,7 +3,7 @@
 
 > whoami
 
-I'm currently studying at Goldsmiths University with a strong passion for cybersecurity, currently focused on developing my skills in penetration testing. Through hands-on platforms like Hack The Box and TryHackMe, I've been actively building practical experience in areas such as network exploitation, privilege escalation, and web application security. My goal is to pursue a career in offensive security, where I can continue learning, growing, and contributing to a safer digital world.
+I'm Computer Science graduate from Goldsmiths University with a strong passion for cybersecurity, currently focused on developing my skills in penetration testing. Through hands-on platforms like Hack The Box and TryHackMe, I've been actively building practical experience in areas such as network exploitation, privilege escalation, and web application security. My goal is to pursue a career in offensive security, where I can continue learning, growing, and contributing to a safer digital world.
 
 🛡️ Aspiring Cybersecurity Professional  
 ## 🧠 Currently Learning
